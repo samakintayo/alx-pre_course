@@ -1,1 +1,1 @@
-My first readme
+Created adirectory in my repo
